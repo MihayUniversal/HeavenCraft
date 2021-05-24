@@ -5,25 +5,28 @@ import net.minecraft.item.ItemStack;
 import mihayuniversal.heavencraft.util.Reference;
 import java.util.function.Supplier;
 
-public class ModItemGroups {
-	
+import javax.annotation.Nonnull;
+
+public final class ModItemGroups {
+
 	public static final ItemGroup MOD_ITEM_GROUP = new ModItemGroup(Reference.MODID, () -> new ItemStack(ModItems.ANGEL_INGOT));
-	
-	public static class ModItemGroup extends ItemGroup {
-		
+
+	public static final class ModItemGroup extends ItemGroup {
+
+		@Nonnull
 		private final Supplier<ItemStack> iconSupplier;
-		
-		public ModItemGroup (String name, Supplier<ItemStack> iconSupplier) {
+
+		public ModItemGroup(@Nonnull final String name, @Nonnull final Supplier<ItemStack> iconSupplier) {
 			super(name);
 			this.iconSupplier = iconSupplier;
 		}
-		
+
 		@Override
+		@Nonnull
 		public ItemStack makeIcon() {
 			return iconSupplier.get();
 		}
 
-		
 	}
-	
+
 }
