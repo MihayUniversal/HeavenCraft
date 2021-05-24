@@ -1,0 +1,27 @@
+{
+	"itemGroup.heavencraft": "Heaven Craft",
+
+	"item.heavencraft.steel_ingot": "Stahl Barren",
+	"item.heavencraft.steel_nugget": "Stahl Nugget",
+	"item.heavencraft.steel_rod": "Stahl Stab",
+	
+	"item.heavencraft.angel_nugget": "Engels Nugget",
+	"item.heavencraft.angel_ingot": "Engels Barren",
+	"item.heavencraft.angel_shovel": "Engels Schaufel",
+	"item.heavencraft.angel_pickaxe": "Engels Spitzhacke",
+	"item.heavencraft.angel_axe": "Engels Axt",
+	"item.heavencraft.angel_hoe": "Engels Hacke",
+	"item.heavencraft.angel_sword": "Engels Schwert",
+	"item.heavencraft.god_sword": "Gottes Schwert",
+	
+	"item.heavencraft.angel_helmet": "Engels Helm",
+	"item.heavencraft.angel_chestplate": "Engels Panzer",
+	"item.heavencraft.angel_leggings": "Engels Hosen",
+	"item.heavencraft.angel_boots": "Engels Stiefel",
+	
+	"tile.heavencraft.angel_ore": "Engels Erz",
+	"tile.heavencraft.angel_block": "Engels Block",
+	"tile.heavencraft.steel_block": "Stahl Block",
+	"tile.heavencraft.angel_furnace": "Engels Ofen"
+}
+

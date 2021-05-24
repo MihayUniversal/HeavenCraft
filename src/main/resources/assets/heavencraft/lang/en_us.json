@@ -1,0 +1,27 @@
+{
+	"itemGroup.heavencraft": "Heaven Craft",
+
+	"item.heavencraft.steel_ingot": "Steel Ingot",
+	"item.heavencraft.steel_nugget": "Steel Nugget",
+	"item.heavencraft.steel_rod": "Steel Rod",
+	
+	"item.heavencraft.angel_nugget": "Angel Nugget",
+	"item.heavencraft.angel_ingot": "Angel Ingot",
+	"item.heavencraft.angel_shovel": "Angel Shovel",
+	"item.heavencraft.angel_pickaxe": "Angel Pickaxe",
+	"item.heavencraft.angel_axe": "Angel Axe",
+	"item.heavencraft.angel_hoe": "Angel Hoe",
+	"item.heavencraft.angel_sword": "Angel Sword",
+	"item.heavencraft.god_sword": "God's Sword",
+	
+	"item.heavencraft.angel_helmet": "Angel Helmet",
+	"item.heavencraft.angel_chestplate": "Angel Chestplate",
+	"item.heavencraft.angel_leggings": "Angel Leggings",
+	"item.heavencraft.angel_boots": "Angel Boots",
+	
+	"tile.heavencraft.angel_ore": "Angel Ore",
+	"tile.heavencraft.angel_block": "Angel Block",
+	"tile.heavencraft.steel_block": "Block of Steel",
+	"tile.heavencraft.angel_furnace": "Angel Furnace"
+}
+
