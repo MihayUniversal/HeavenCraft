@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "heavencraft:angel_ingot"
+    }
+  },
+  "result": {
+    "item": "heavencraft:angel_block"
+  }
+}

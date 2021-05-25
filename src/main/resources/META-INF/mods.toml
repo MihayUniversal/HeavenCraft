@@ -1,13 +1,27 @@
 modLoader="javafml"
 loaderVersion="[36,)"
 license="All rights reserved"
+
 [[mods]]
-modId="heavencraft"
-version="1.16.5-0.0.1"
-displayName="Heaven Craft"
-#logoFile="examplemod.png"
-credits=""
-authors="MihayUniversal"
-description='''
-The Heaven's creatures have descended and gifted the world with Ore's and Tools from heaven.
-'''
+	modId="heavencraft"
+	version="1.16.5-0.0.1"
+	displayName="Heaven Craft"
+	#logoFile="examplemod.png"
+	credits=""
+	authors="MihayUniversal"
+	description='''
+	The Heaven's creatures have descended and gifted the world with Ore's and Tools from heaven.
+	'''
+
+[[dependencies.heavencraft]]
+	modId="forge"
+	mandatory=true
+	versionRange="[36,)"
+	ordering="NONE"
+	side="BOTH"
+[[depenencies.heavencraft]]
+	modId="minecraft"
+	mandatory=true
+	versionRange="[1.16.5]"
+	ordering="NONE"
+	side="BOTH"

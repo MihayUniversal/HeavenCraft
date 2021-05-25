@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "heavencraft:angel_block"
+    }
+  ],
+  "result": {
+    "item": "heavencraft:angel_ingot",
+    "count": 9
+  }
+}
